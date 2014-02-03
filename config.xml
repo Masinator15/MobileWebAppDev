@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns 		= "http://www.w3.org/nx/widgets"
+		xmlns:gap 	= "http://phonegap.com/ns/1.0"
+		id 			= "com.phonegap.example"
+		versionCode = "10"
+		version 	= "1.0.0" >
+		
+		<!-- versionCode is optional and Android only -->
+
+<name>Mobile Web Application</name>
+
+<description>This is my first Mobile Web Application.</description>
+
+<author href="" email="TacoBell@ByTheMall.net">Mason Decker</author>
