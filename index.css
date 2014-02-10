@@ -1,3 +1,21 @@
 @charset "utf-8";
 /* CSS Document */
 
+nav{
+	background-color:#333;
+	height:5%;
+}
+
+.wrapper{
+	background-color:#CCC;	
+}
+
+.title1{
+	color:#FFF;
+
+.navButton{
+	color:#000;
+	background-color:#FFF;
+	text-decoration:none;
+	text-align:center;
+}
