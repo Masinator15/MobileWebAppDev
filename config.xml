@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8">
-<widget xmlns 		= "http://www.w3.org/nx/widgets"
+<widget xmlns 		= "http://www.w3.org/ns/widgets"
 		xmlns:gap 	= "http://phonegap.com/ns/1.0"
 		id 			= "com.phonegap.example"
 		version 	= "1.0.0" >
@@ -9,6 +9,8 @@
 <name>Mobile Web Application</name>
 
 <description>This is my first Mobile Web Application.</description>
+
+<author href="https://example.com" email="you@example.com">A Random Name</author>
 
 <preference name="fullscreen" value="true" />
 
@@ -30,7 +32,5 @@
 
 <!-- SPLASH SCREEN -->
 <gap:splash src="splash.png" />
-
-<author href="https://example.com" email="you@example.com">Mason Decker</author>
 
 </widget>
