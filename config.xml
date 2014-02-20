@@ -6,9 +6,13 @@
 		
 <name>Mobile Web Application</name>
 
-<description>This is my first Mobile Web Application.</description>
+<description>
+	This is my first Mobile Web Application.
+</description>
 
-<author href="https://example.com" email="you@example.com">A Random Name</author>
+<author href="https://example.com" email="you@example.com">
+	A Random Name
+</author>
 
 <!-- <preference name="fullscreen" value="true"/> -->
 
