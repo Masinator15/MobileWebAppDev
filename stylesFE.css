@@ -1,4 +1,20 @@
 @charset "utf-8";
 /* CSS Document */
 
+.wrapper{
+	-webkit-column-count:2;
+	display:table;
+}
 
+h1{
+	text-align:center;
+}
+
+body{
+	background-color:white;	
+}
+
+.navButton{
+	background-color:transparent;
+	width:10em;
+}
