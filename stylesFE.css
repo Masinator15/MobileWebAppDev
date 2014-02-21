@@ -1,9 +1,8 @@
 @charset "utf-8";
 /* CSS Document */
 
-.wrapper{
-	-webkit-column-count:2;
-	display:table;
+.content{
+	
 }
 
 h1{
@@ -11,10 +10,10 @@ h1{
 }
 
 body{
-	background-color:white;	
+	background-color: white;
+	float: none;
 }
 
 .navButton{
 	background-color:transparent;
-	width:10em;
 }
